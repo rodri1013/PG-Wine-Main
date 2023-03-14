@@ -27,7 +27,7 @@ const procesarMP = (req, res) => {
       };
     }),
     back_urls: {
-      success: "https://pg-wine.vercel.app/pagoexitoso",
+      success: "https://pg-wine.vercel.app/home",
       failure: "https://pg-wine.vercel.app/shoppingcart",
       pending: "https://pg-wine.vercel.app/user/perfil",
     },
